@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/MovieShark/static/css/main.4e41355f.css",
+    "main.js": "/MovieShark/static/js/main.d4e4e55c.js",
+    "static/media/logo1.png": "/MovieShark/static/media/logo1.9e15c1e14873534cb706.png",
+    "static/media/slick.svg": "/MovieShark/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/MovieShark/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/MovieShark/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/MovieShark/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/MovieShark/index.html",
+    "main.4e41355f.css.map": "/MovieShark/static/css/main.4e41355f.css.map",
+    "main.d4e4e55c.js.map": "/MovieShark/static/js/main.d4e4e55c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e41355f.css",
+    "static/js/main.d4e4e55c.js"
+  ]
+}
